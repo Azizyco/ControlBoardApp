@@ -1,0 +1,2 @@
+# Satu-satunya dependensi di luar Python. sqlite3 sudah bawaan Python.
+Flask>=3.0,<4
